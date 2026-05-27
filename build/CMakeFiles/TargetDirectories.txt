@@ -1,0 +1,3 @@
+/home/matveevda/projects/mini_compiler/build/CMakeFiles/mini_cc.dir
+/home/matveevda/projects/mini_compiler/build/CMakeFiles/edit_cache.dir
+/home/matveevda/projects/mini_compiler/build/CMakeFiles/rebuild_cache.dir
