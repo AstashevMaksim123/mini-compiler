@@ -26,7 +26,7 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
 BISON_TARGET(MiniParser
     ${CMAKE_CURRENT_SOURCE_DIR}/src/parser.y
     ${CMAKE_CURRENT_BINARY_DIR}/parser.cpp
-    DEFINES_FILE ${CMAKE_CURRENT_BINARY_DIR}/parser.hpp);
+    DEFINES_FILE ${CMAKE_CURRENT_BINARY_DIR}/parser.hpp)
 
 FLEX_TARGET(MiniLexer
     ${CMAKE_CURRENT_SOURCE_DIR}/src/lexer.l
