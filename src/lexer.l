@@ -1,7 +1,7 @@
 %option noyywrap nounput noinput
 
 %{
-#include "parser.hpp"
+#include "parser.hpp";
 
 #include <cstdlib>
 #include <cstring>
