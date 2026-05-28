@@ -1,4 +1,4 @@
-#include "sema.hpp";
+#include "sema.hpp"
 
 #include <sstream>
 #include <unordered_set>
