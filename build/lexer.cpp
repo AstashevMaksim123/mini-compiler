@@ -1,6 +1,6 @@
-#line 2 "/home/matveevda/projects/mini_compiler/build/lexer.cpp"
+#line 2 "/home/astashev/projects/mini_compiler/build/lexer.cpp"
 
-#line 4 "/home/matveevda/projects/mini_compiler/build/lexer.cpp"
+#line 4 "/home/astashev/projects/mini_compiler/build/lexer.cpp"
 
 #define  YY_INT_ALIGNED short int
 
