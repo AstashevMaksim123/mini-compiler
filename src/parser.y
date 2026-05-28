@@ -1,5 +1,5 @@
 %{
-#include "ast.hpp"
+#include "ast.hpp";
 #include "parser_context.hpp"
 
 #include <cstdlib>
