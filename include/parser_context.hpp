@@ -11,6 +11,7 @@ namespace mini {
 struct Diagnostic {
     SourceRange range;
     std::string message;
+
 };
 
 class ParserContext {
